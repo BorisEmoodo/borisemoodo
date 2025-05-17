@@ -8,6 +8,7 @@
   <h1>BORIS EMOODO</h1>
   <p><strong>Developer & Marketer</strong></p>
   <p>Email: borisemoodo@gmail.com| <a href="https://www.linkedin.com/in/boris-emoodo-b5a66316b/">LinkedIn</a></p>
+  <P>Phone: +254790107803</P>
 
   <h2>Projects</h2>
 
