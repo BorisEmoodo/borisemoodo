@@ -47,8 +47,4 @@ Helped multiple clients grow web traffic through optimized content
 Increased product visibility with compelling, keyword-rich listings
 
 Provided consistent content planning for small business social media pages</p>
-
-Projects.
-
-    <p><a href="#">https://budgettraveller.org/best-hostel-seminyak-bali-kosta-review/</a></p>
 </html>
