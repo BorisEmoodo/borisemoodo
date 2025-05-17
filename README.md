@@ -47,7 +47,7 @@ Increased organic traffic for a client blog by 75% in 3 months
 Boosted product visibility by doubling impressions on Amazon listings
 
 Grew Instagram engagement by 40% through consistent, branded content")</p>
-    <p><a href="#">More details</a></p>
+    <p><a href="#">https://budgettraveller.org/best-hostel-seminyak-bali-kosta-review/</a></p>
   </div>
 </body>
 </html>
