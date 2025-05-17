@@ -49,7 +49,7 @@ Increased product visibility with compelling, keyword-rich listings
 
 Provided consistent content planning for small business social media pages</p>
 <p><a href="https://budgettraveller.org/best-hostel-seminyak-bali-kosta-review/">PROJECT ONE</a> | <p><a href="https://www.amazon.com/COSORI-Compact-Recipes-Dehydrate-Dishwasher/dp/B0C33CHG99/ref=sr_1_8?adgrpid=1333710120260291&dib=eyJ2IjoiMSJ9.3fpOlAdefI5NL9KzzQvr6VO-hnKKJ2JGKlBWacTHTlSIk62b26t5z58LRX-wW_cUeJcNSVE37umFesSWDUAecXC7cE9vu9g6HEs0Jt7MR3NcWW8foRT2MFAvO5qHjBoRGu8lAX-_WuMTyTWR_4hJRDiww2FAZKnE48_Sa_A8wn4YNsqStb0hnYbl0sqYwehgXgDUt7VtCmI6hKGoRLXYD9VKSUB7t1BPLoFXJeo7otuSqL821p6VaEn8IAQGmE-0sr1f-Qei8JW4dfUiU9IzLhKOOYxFm32tuaxPkDg9oy8.2osb-XXN0NS3Q1f9V2F8aQokFr4FVO0FQILiMaLKT_c&dib_tag=se&hvadid=83357158393804&hvbmt=bb&hvdev=c&hvlocphy=142433&hvnetw=o&hvqmt=b&hvtargid=kwd-83358039442032%3Aloc-98&hydadcr=7692_13467824&keywords=amazon%2Btop%2Bseller&mcid=4d9f95a954363952a1687a0260a17fad&msclkid=9b84f4a2406f129f06a59c8a06ce655e&qid=1747469988&sr=8-8&th=1/">PROJECT TWO</a>
-<p><a href="![WhatsApp Image 2025-05-17 at 12 20 02](https://github.com/user-attachments/assets/0a6aaa87-e6d7-4dc1-965e-785c4fb73557)/">PROJECT THREE</a>
+<p><a href="![WhatsApp Image 2025-05-17 at 12 20 02](https://github.com/user-attachments/assets/0a6aaa87-e6d7-4dc1-965e-785c4fb73557)/"</a>
   
  <h3>NATIONAL SOCIAL SECURITY FUND, KENYA.</h3>
     <p> Supported the operations and IT departments in delivering essential client and infrastructure services.
