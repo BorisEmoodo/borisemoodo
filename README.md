@@ -13,7 +13,7 @@
 
   <div class="project">
     <h3>EXPERIENCE AT OIGETIT NEWS FILTER</h3>
-    <p>During my tenure at Oigetit News filter, I was able to incorporate my graphic design skills and ensure that the content submitted always matched the requirement. I was able to allocate key words effectively optimizing search engine. This led to more website engagement and viewership. Furthermore, I was tasked with SEO speciality by enhancing the visibility using backlinks and social media engagement. I also ensured the posting schdules were on time and coordianted with teams to provide better framworks </p>
+    <p>During my tenure at Oigetit News filter, I was able to incorporate my graphic design skills and ensure that the content submitted always matched the requirement. I was able to allocate key words effectively optimizing search engine. This led to more website engagement and viewership. Furthermore, I was tasked with SEO speciality by enhancing the visibility using backlinks and social media engagement. I also ensured the posting schedules were on time and coordinated with teams to provide better framworks </p>
      <p><a href="https://www.facebook.com/oigetit">Facebook profile</a> | <p><a href="https://www.oigetit.com/">Website</a>
   </div>
   <div class="project">
