@@ -19,7 +19,34 @@
   <div class="project">
     <h3>EXPERIENCE AT FIVERR INTERNATIONAL.</h3>
     <h4>Role: SEO Specialist, Content Writer, Product Listing Expert.<h4>
-    <p>Brief description (e.g., "Email automation that increased signups by 30%")</p>
+    <p>Role: SEO Specialist, Content Writer, Product Listing Expert
+Platforms: Fiverr | Client Projects | Ongoing (20XX–Present)
+
+Provided end-to-end SEO and digital marketing services for small businesses and eCommerce brands via Fiverr.
+Delivered over 50 optimized articles and product descriptions with a focus on keyword density, readability, and conversion.
+Managed SEO-driven product listings for Shopify, Amazon, and WooCommerce stores — improving visibility and sales.
+Created and scheduled content for Facebook, Twitter, and Instagram using tailored strategies for engagement and reach.
+Collaborated on website copy and content structure to improve organic search rankings, user experience, and traffic retention.
+
+Tools Used:
+
+Google Keyword Planner, Ubersuggest
+
+WordPress, Shopify, WooCommerce
+
+Canva, Buffer, Hootsuite
+
+Facebook Business Suite, Meta Ads, Twitter Analytics
+
+Grammarly, Hemingway Editor
+
+Key Results:
+
+Increased organic traffic for a client blog by 75% in 3 months
+
+Boosted product visibility by doubling impressions on Amazon listings
+
+Grew Instagram engagement by 40% through consistent, branded content")</p>
     <p><a href="#">More details</a></p>
   </div>
 </body>
