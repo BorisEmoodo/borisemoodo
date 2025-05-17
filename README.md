@@ -20,7 +20,7 @@
     <h3>EXPERIENCE AT FIVERR INTERNATIONAL.</h3>
     <h4>Role: SEO Specialist, Content Writer, Product Listing Expert.<h4>
     <p>Role: SEO Specialist, Content Writer, Product Listing Expert
-Platforms: Fiverr | Client Projects | Ongoing (20XX–Present)
+Platforms: Fiverr | Client Projects | Ongoing
 
 Provided end-to-end SEO and digital marketing services for small businesses and eCommerce brands via Fiverr.
 Delivered over 50 optimized articles and product descriptions with a focus on keyword density, readability, and conversion.
