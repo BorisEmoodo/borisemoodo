@@ -47,4 +47,5 @@ Helped multiple clients grow web traffic through optimized content
 Increased product visibility with compelling, keyword-rich listings
 
 Provided consistent content planning for small business social media pages</p>
+<p><a href="https://www.facebook.com/oigetit">Facebook profile</a> | <p><a href="https://www.oigetit.com/">Website</a>
 </html>
