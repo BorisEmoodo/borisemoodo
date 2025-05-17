@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-  <h1>Your Name</h1>
+  <h1>BORIS EMOODO</h1>
   <p><strong>Developer & Marketer</strong></p>
   <p>Email: borisemoodo@gmail.com| <a href="https://www.linkedin.com/in/boris-emoodo-b5a66316b/">LinkedIn</a></p>
 
