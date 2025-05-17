@@ -1,16 +1,34 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name - Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    h1, h2 { color: #333; }
+    .project { margin-bottom: 20px; }
+    a { color: #007acc; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Your Name</h1>
+  <p><strong>Developer & Marketer</strong></p>
+  <p>Email: your.email@example.com | <a href="https://linkedin.com/in/yourname">LinkedIn</a></p>
 
-<!--
-**BorisEmoodo/borisemoodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>Projects</h2>
 
-Here are some ideas to get you started:
+  <div class="project">
+    <h3>Project Title #1</h3>
+    <p>Description of what it does and your role (coding, marketing, analytics...)</p>
+    <p><a href="https://github.com/yourusername/project1">GitHub Repo</a> | 
+       <a href="https://live-demo.com">Live Demo</a></p>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div class="project">
+    <h3>Marketing Campaign Example</h3>
+    <p>Brief description (e.g., "Email automation that increased signups by 30%")</p>
+    <p><a href="#">More details</a></p>
+  </div>
+</body>
+</html>
