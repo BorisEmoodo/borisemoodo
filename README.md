@@ -17,7 +17,7 @@
      <p><a href="https://www.facebook.com/oigetit">Facebook profile</a> | <p><a href="https://www.oigetit.com/">Website</a>
   </div>
   <div class="project">
-    <h3>EXPEIRIENCE AT FIVERR INTERNATIONAL.</h3>
+    <h3>EXPERIENCE AT FIVERR INTERNATIONAL.</h3>
     <h4>Role: SEO Specialist, Content Writer, Product Listing Expert.<h4>
     <p>Brief description (e.g., "Email automation that increased signups by 30%")</p>
     <p><a href="#">More details</a></p>
