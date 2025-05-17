@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+333333333333333333<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +14,8 @@
   <div class="project">
     <h3>EXPERIENCE AT OIGETIT NEWS FILTER</h3>
     <p>During my tenure at Oigetit News filter, I was able to incorporate my graphic design skills and ensure that the content submitted always matched the requirement. I was able to allocate key words effectively optimizing search engine. This led to more website engagement and viewership. Furthermore, I was tasked with SEO speciality by enhancing the visibility using backlinks and social media engagement. </p>
-     <p><a href="https://www.facebook.com/oigetit">Facebook profile</a>
+     <p><a href="https://www.facebook.com/oigetit">Facebook profile</a> |
+         <p><a href="  <p><a href="https://www.oigetit.com/">Website</a>
   </div>
   <div class="project">
     <h3>Marketing Campaign Example</h3>
