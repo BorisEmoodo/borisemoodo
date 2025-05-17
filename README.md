@@ -14,7 +14,7 @@
 <body>
   <h1>Your Name</h1>
   <p><strong>Developer & Marketer</strong></p>
-  <p>Email: your.email@example.com | <a href="https://linkedin.com/in/yourname">LinkedIn</a></p>
+  <p>Email: borisemoodo@gmail.com| <a href="https://linkedin.com/in/boris-emoodo">LinkedIn</a></p>
 
   <h2>Projects</h2>
 
